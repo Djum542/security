@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Person>
+    <name> json </name>
+    <age> 54 </age>
+</Person>
+
+<book id="1">
+    <title>Introduction to XML</title>
+    <author>John Doe</author>
+    <publication_year>2023</publication_year>
+</book>
